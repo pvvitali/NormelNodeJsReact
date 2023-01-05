@@ -1,0 +1,21 @@
+a {
+  color: inherit;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.5rem;
+  /* padding-left: 1rem; */
+  font-size: 1.1rem;
+  color: black;
+  /* border-bottom: 1px solid #eee; */
+  /* margin-right: 120px; */
+}
+
